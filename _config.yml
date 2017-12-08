@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: Milan Košir
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: md5( "kosir.milan@gmail.com" )
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
@@ -19,7 +19,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: milan@simplyguid.me
   behance:
   bitbucket:
   dribbble:
@@ -57,8 +57,8 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
 # PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+#paginate: 5
+#paginate_path: "blog/page:num"
 
 # COLLECTIONS
 collections:
@@ -73,3 +73,9 @@ sass:
   style: :compressed
 
 plugins: [jekyll-paginate]
+
+page_gen:
+  - data: 'member'
+    template: 'profile'
+    name: 'name'
+    dir: 'people'
