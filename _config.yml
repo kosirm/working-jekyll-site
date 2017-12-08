@@ -14,7 +14,7 @@ collections:
     output: true
 
 # BUILD SETTINGS
-incremental: true
+incremental: false
 markdown: kramdown
 sass:
   sass_dir: _sass
