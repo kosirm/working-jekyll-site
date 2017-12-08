@@ -6,7 +6,7 @@ permalink: /about/
 
 Novi Pogled is the base of Simply Guide Me.
 
-> A padded outlined blockquote
+A padded outlined blockquote
 {: .pa4 .outline}
 
 {::comment}The following line defines a reusable ALD{:/comment}
