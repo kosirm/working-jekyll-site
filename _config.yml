@@ -66,6 +66,7 @@ collections:
     output: true
 
 # BUILD SETTINGS
+incremental: true
 markdown: kramdown
 sass:
   sass_dir: _sass
