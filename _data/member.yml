@@ -1,19 +1,22 @@
 #Milan
-- name: Milan Košir
+- name: Milan
+  full_name: Milan Košir
   gender: Muški
   school: Gimnazija
   birth: 25.10.1963
   bio: Programer, vizionar, ljenčina
   email: milan@simplyguide.me
 #Lidija  
-- name: Lidija Košir
+- name: Lidija
+  full_name: Lidija Košir
   gender: Ženski
   school: Teološki fakultet
   birth: 26.11.1970
   bio: Majka, Žena, Psihoterapeut, Genijalka
   email: lidija@simplyguide.me
 #Šarlota  
-- name: Šarlota Šajina
+- name: Šarlota
+  full_name: Šarlota Šajina
   gender: Ženski
   school: Psihologija
   birth: 12.2.1983

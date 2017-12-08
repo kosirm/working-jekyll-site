@@ -1,64 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
-
-# THEME-SPECIFIC CONFIGURATION
-theme_settings:
-  # Meta
-  title: Milan Košir
-  avatar: avatar.png
-  gravatar: md5( "kosir.milan@gmail.com" )
-  description: "A website with blog posts and pages" # used by search engines
-
-  # Header and footer text
-  header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
-  header_text_feature_image:
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
-  # Icons
-  rss: false
-  email_address: milan@simplyguid.me
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "kosirm/working-jekyll-site"
-  google_plus:
-  instagram: "kosirm"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "kosirm"
-  wordpress:
-  youtube:
-
-  # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
-  katex: true # Enable if using math markup
-
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
-
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
-
-# PAGINATION
-#paginate: 5
-#paginate_path: "blog/page:num"
+title: Novi Pogled
+email: milan@simplyguide.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Dreambox Design is an agency with a vision
+  to enable every man, woman and child to communicate
+  ove internet in a secure and simple fashion.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # COLLECTIONS
 collections:
