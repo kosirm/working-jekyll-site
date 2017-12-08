@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Novi Pogled is the base of Simply Guide Me. This is new, ali opet ne radi (zbog https, sranje)... can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Novi Pogled is the base of Simply Guide Me.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+> A padded outlined blockquote
+{: .pa4 .outline}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{::comment}The following line defines a reusable ALD{:/comment}
+{:my-paragraph: .fl .w-50 .outline .pv1 .ph4}
 
+This custom paragraph is red
+{:my-paragraph .bg-red}
 
-[jekyll-organization]: https://github.com/jekyll
+And this one is blue
+{:my-paragraph .bg-blue}
