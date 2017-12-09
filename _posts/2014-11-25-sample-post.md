@@ -6,7 +6,8 @@ Ok, vrijeme je da ovo očistim do nule. <br>
 onda ide ovako: <br>
     - hello world <br>
     - tachyons <br>
-    - mavo + yaml
+    - mavo + yaml <br>
+    - jekyll-remote-theme
 <div class="tl bt b--black-10 pa3 pa5-ns bg-lightest-blue navy" id="principles">
             <div class="mw9 center">
               <h1 class="f5 ttu tracked fw6">Principles</h1>
