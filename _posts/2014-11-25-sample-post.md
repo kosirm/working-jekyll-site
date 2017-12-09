@@ -2,20 +2,66 @@
 layout: post
 title: Sample post
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
-
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
-
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
-
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
-
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+Ok, vrijeme je da ovo očistim do nule. <br>
+onda ide ovako: <br>
+    - hello world <br>
+    - tachyons <br>
+    - mavo + yaml
+<div class="tl bt b--black-10 pa3 pa5-ns bg-lightest-blue navy" id="principles">
+            <div class="mw9 center">
+              <h1 class="f5 ttu tracked fw6">Principles</h1>
+              <section class="lh-copy">
+                <div class="cf">
+                  <article class="fl pv2 w-100 w-third-l pr4-l">
+                    <h2 class="f5 f4-ns fw6 mb0">Responsive</h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      Everything should be 100% responsive. Your website should work regardless of a user's
+                      device or screensize.
+                    </p>
+                  </article>
+                  <article class="pv2 fl w-100 w-third-l ph3-l">
+                    <h2 class="f5 f4-ns fw6 mb0">Readable</h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      No matter the lighting, or the device, font-sizes should be
+                      large enough and contrast should be high enough for your
+                      users to easily read your content.
+                    </p>
+                  </article>
+                  <article class="pv2 fl w-100 w-third-l pl4-l">
+                    <h2 class="f5 f4-ns  fw6 mb0">
+                      Modular
+                    </h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      Tachyons isn't just a monolithic framework. It's a collection of small modules
+                      that can be mixed and matched or used independently. Use what you need. Leave the rest.
+                    </p>
+                  </article>
+</div>
+<div class="cf w-100">
+                  <article class="pv2 fl w-100 w-third-l pl0 pr4-l">
+                    <h2 class="f5 f4-ns fw6 mb0">Accessible</h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      Accessibility is important to us. Throughout both the css
+                      and the documentation we provide numerous tools and methods for making it
+                      easier to maximize the accessibility of your site.
+                    </p>
+                  </article>
+                  <article class="pv2 fl w-100 w-third-l ph3-l">
+                    <h2 class="f5 f4-ns  fw6 mb0">Performant</h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      Code should be optimized for performance.
+                    </p>
+                  </article>
+                  <article class="pv2 fl w-100 w-third-l pl4-l">
+                    <h2 class="f5 f4-ns fw6 mb0">
+                      Reusable
+                    </h2>
+                    <p class="f6 f5-ns measure lh-copy mt0">
+                      Clear documentation helps create a shared understanding of design patterns amongst your team.
+                      This helps promote reuse and reduces the amount of redundancy in a codebase.
+                    </p>
+                  </article>
+                </div>
+              </section>
+            </div>
+          </div>
