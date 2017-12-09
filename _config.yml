@@ -6,11 +6,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   to enable every man, woman and child to communicate
   ove internet in a secure and simple fashion.
 baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #EXCLUDE
 exclude:
   - .app
+
+# PLUGINS
+plugins:
+  - jemoji
 
 # COLLECTIONS
 collections:
@@ -20,10 +25,14 @@ collections:
 # BUILD SETTINGS
 incremental: false
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
 sass:
   sass_dir: _sass
   style: :compressed
 
+# PAGE-GEN
 page_gen:
   - data: 'member'
     template: 'profile'

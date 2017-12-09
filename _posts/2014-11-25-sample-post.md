@@ -2,12 +2,18 @@
 layout: post
 title: Sample post
 ---
-Ok, vrijeme je da ovo očistim do nule. <br>
-onda ide ovako: <br>
-    - hello world <br>
-    - tachyons <br>
-    - mavo + yaml <br>
+Ok, vrijeme je da ovo očistim do nule.
+onda ide ovako:
+    - hello world :house:
+    - tachyons
+    - mavo + yaml
+    - menu plugin
     - jekyll-remote-theme
+    - produkcija SimplyGuideMe :rocket:
+    - ovaj mloberg browsersync
+    - je pa res the best ... :+1:
+    - editor (rocker)
+    - branding, marketing
 <div class="tl bt b--black-10 pa3 pa5-ns bg-lightest-blue navy" id="principles">
             <div class="mw9 center">
               <h1 class="f5 ttu tracked fw6">Principles</h1>
