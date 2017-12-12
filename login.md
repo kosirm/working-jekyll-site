@@ -1,4 +1,4 @@
 ---
 layout: login
-title: "login"
+title: "Login"
 ---
