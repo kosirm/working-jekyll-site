@@ -79,7 +79,7 @@ GEM
       html_press (~> 0.8)
       jekyll (>= 2.0)
       octopress-hooks
-    pathutil (0.16.0)
+    pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
     rb-fsevent (0.10.2)

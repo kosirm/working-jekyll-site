@@ -2,18 +2,22 @@
 layout: post
 title: Sample post
 ---
-Ok, vrijeme je da ovo očistim do nule.
+Ok, vrijeme je da ovo očistim do nule!
+{:my-paragraph .bg-red .white .ph2 .b}
 onda ide ovako:
-    - hello world :house:
-    - tachyons
-    - mavo + yaml
-    - menu plugin
-    - jekyll-remote-theme
-    - produkcija SimplyGuideMe :rocket:
-    - ovaj mloberg browsersync
-    - je pa res the best ... :+1:
-    - editor (rocker)
-    - branding, marketing
+- hello world :house:
+- tachyons -- evo me
+- gulp => gulp 4 (incremental build)
+- mavo + yaml
+- menu plugin
+- jekyll-remote-theme
+- produkcija SimplyGuideMe :rocket:
+- mloberg browsersync je OK :+1:
+- ok, radi!
+- editor (rocker)
+- branding, marketing
+- kako god, za sada ostaje jekyll
+- 
 <div class="tl bt b--black-10 pa3 pa5-ns bg-lightest-blue navy" id="principles">
             <div class="mw9 center">
               <h1 class="f5 ttu tracked fw6">Principles</h1>
